@@ -1,0 +1,3 @@
+Average out degree: 8.203165627893283
+Average in degree:  8.203165627893283
+Average clustering coefficient: 0.5976304608027774
