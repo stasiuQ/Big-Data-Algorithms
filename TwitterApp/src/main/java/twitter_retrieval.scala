@@ -59,10 +59,10 @@ object twitter_retrieval {
     conf.setAppName(appName).setMaster("local[2]")
     val ssc = new StreamingContext(conf, Seconds(5))
 
-    val consumerKey = "BhYW3asr114ouivCmgs5IIDbB"
-    val consumerSecret = "8D93Qz4kAsQTuLGbNhR6iKPymCzinOiX201o6SlDJSP5kuGery"
-    val accessToken = "239854896-88Ts3gPiOM4EWIx7akEOnUDKBViJfpNPFYqPOTWF"
-    val accessTokenSecret = "vFIGlv47oVrJwxPZ6kDyjbd9UWsye38LO0oDXyBYivuU0"
+    val consumerKey = ""
+    val consumerSecret = ""
+    val accessToken = ""
+    val accessTokenSecret = ""
 
     val cb = new ConfigurationBuilder
 
