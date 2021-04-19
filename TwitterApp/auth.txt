@@ -1,3 +1,0 @@
-access token: 239854896-88Ts3gPiOM4EWIx7akEOnUDKBViJfpNPFYqPOTWF
-access token secret: vFIGlv47oVrJwxPZ6kDyjbd9UWsye38LO0oDXyBYivuU0
-
